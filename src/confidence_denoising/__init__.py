@@ -6,7 +6,7 @@ noise suppression, signal-quality confidence estimation, and edge deployment.
 """
 
 __version__ = "1.0.0"
-__author__ = "Ankur Chopde, Parth Agalave, Saiprasad Kawthe, Archana Ratnaparkhi, Sagar Janokar"
+__author__ = "Ankur Chopde, Parth Agalave, Saiprasad Kawthe"
 
 from confidence_denoising.data.synthetic import (
     generate_linear_sine_mix,

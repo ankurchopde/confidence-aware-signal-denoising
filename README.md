@@ -11,7 +11,6 @@
 [![Edge AI](https://img.shields.io/badge/Deployment-TensorFlow%20Lite-00D4AA.svg?logo=google&logoColor=white)](https://ai.google.dev/edge/litert)
 [![Tests](https://img.shields.io/badge/Tests-15%20Passed-brightgreen.svg?logo=pytest&logoColor=white)](#testing-and-continuous-integration)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--0637--2705-green.svg?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0637-2705)
 
 </div>
 
@@ -420,16 +419,14 @@ tests/test_model.py::test_model_parameter_count PASSED                   [100%]
 Developed at the **Department of Electronics and Telecommunication Engineering, Vishwakarma Institute of Technology (VIT), Pune, India**.
 
 ### Authors
-- **Ankur Chopde** — [ORCID: 0009-0002-0637-2705](https://orcid.org/0009-0002-0637-2705) — `ankur.1252100020@vit.edu`
-- **Parth Agalave** — [ORCID: 0009-0009-7611-7436](https://orcid.org/0009-0009-7611-7436) — `parth.1252100016@vit.edu`
-- **Saiprasad Kawthe** — [ORCID: 0009-0002-5894-5368](https://orcid.org/0009-0002-5894-5368) — `saiprasad.1252100024@vit.edu`
-- **Dr. Archana Ratnaparkhi** — [ORCID: 0000-0003-2926-8046](https://orcid.org/0000-0003-2926-8046) — `archana.ratnaparkhi@vit.edu`
-- **Prof. Sagar Janokar** — [ORCID: 0009-0006-1780-8032](https://orcid.org/0009-0006-1780-8032) — `sagar.janokar@vit.edu`
+- **Ankur Chopde** — `ankur.1252100020@vit.edu`
+- **Parth Agalave** — `parth.1252100016@vit.edu`
+- **Saiprasad Kawthe** — `saiprasad.1252100024@vit.edu`
 
 ### Citation Format (BibTeX)
 ```bibtex
 @software{chopde2026confidence,
-  author       = {Chopde, Ankur and Agalave, Parth and Kawthe, Saiprasad and Ratnaparkhi, Archana and Janokar, Sagar},
+  author       = {Chopde, Ankur and Agalave, Parth and Kawthe, Saiprasad},
   title        = {Confidence-Aware AI for Sensor Signal Denoising: Deep Learning, Adaptive Filtering, and Edge Deployment},
   year         = {2026},
   publisher    = {GitHub},

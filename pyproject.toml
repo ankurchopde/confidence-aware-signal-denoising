@@ -10,9 +10,7 @@ readme = "README.md"
 authors = [
     { name = "Ankur Chopde", email = "ankur.1252100020@vit.edu" },
     { name = "Parth Agalave", email = "parth.1252100016@vit.edu" },
-    { name = "Saiprasad Kawthe", email = "saiprasad.1252100024@vit.edu" },
-    { name = "Archana Ratnaparkhi", email = "archana.ratnaparkhi@vit.edu" },
-    { name = "Sagar Janokar", email = "sagar.janokar@vit.edu" }
+    { name = "Saiprasad Kawthe", email = "saiprasad.1252100024@vit.edu" }
 ]
 license = { text = "MIT" }
 classifiers = [
