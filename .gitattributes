@@ -1,0 +1,10 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Binary files
+*.h5 binary
+*.tflite binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.svg text

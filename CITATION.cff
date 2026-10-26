@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software or research framework in your work, please cite it as below."
+title: "Confidence-Aware AI for Sensor Signal Denoising: Deep Learning, Adaptive Filtering, and Edge Deployment"
+version: 1.0.0
+date-released: 2026-03-27
+url: "https://github.com/ankurchopde/confidence-aware-signal-denoising"
+authors:
+  - family-names: Chopde
+    given-names: Ankur
+    orcid: "https://orcid.org/0009-0002-0637-2705"
+    affiliation: "Vishwakarma Institute of Technology, Pune, India"
+  - family-names: Agalave
+    given-names: Parth
+    orcid: "https://orcid.org/0009-0009-7611-7436"
+    affiliation: "Vishwakarma Institute of Technology, Pune, India"
+  - family-names: Kawthe
+    given-names: Saiprasad
+    orcid: "https://orcid.org/0009-0002-5894-5368"
+    affiliation: "Vishwakarma Institute of Technology, Pune, India"
+  - family-names: Ratnaparkhi
+    given-names: Archana
+    orcid: "https://orcid.org/0000-0003-2926-8046"
+    affiliation: "Vishwakarma Institute of Technology, Pune, India"
+  - family-names: Janokar
+    given-names: Sagar
+    orcid: "https://orcid.org/0009-0006-1780-8032"
+    affiliation: "Vishwakarma Institute of Technology, Pune, India"
+keywords:
+  - "adaptive filtering"
+  - "signal denoising"
+  - "confidence-aware deep learning"
+  - "1D CNN"
+  - "sensor signal processing"
+  - "TensorFlow Lite"
+  - "edge AI"

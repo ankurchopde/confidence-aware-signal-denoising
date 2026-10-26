@@ -1,0 +1,116 @@
+{
+  "signal_topologies": {
+    "Linear Sine Mix": {
+      "lms_snr_db": 2.56,
+      "nlms_snr_db": 0.54,
+      "model_snr_db": 11.93,
+      "lms_mse": 0.1921,
+      "nlms_mse": 1.9094,
+      "model_mse": 0.346,
+      "mean_confidence": 1.0
+    },
+    "Square Wave": {
+      "lms_snr_db": 3.31,
+      "nlms_snr_db": 1.19,
+      "model_snr_db": 8.48,
+      "lms_mse": 0.3202,
+      "nlms_mse": 0.7928,
+      "model_mse": 0.9005,
+      "mean_confidence": 1.0
+    },
+    "Sawtooth Wave": {
+      "lms_snr_db": 2.78,
+      "nlms_snr_db": 0.54,
+      "model_snr_db": 8.47,
+      "lms_mse": 0.2067,
+      "nlms_mse": 1.0363,
+      "model_mse": 0.3085,
+      "mean_confidence": 1.0
+    },
+    "AM Modulated": {
+      "lms_snr_db": 3.6,
+      "nlms_snr_db": 0.95,
+      "model_snr_db": 16.33,
+      "lms_mse": 0.2766,
+      "nlms_mse": 3.081,
+      "model_mse": 0.2938,
+      "mean_confidence": 1.0
+    },
+    "Nonlinear (Sine+Cubic)": {
+      "lms_snr_db": 3.51,
+      "nlms_snr_db": 2.34,
+      "model_snr_db": 15.67,
+      "lms_mse": 0.2978,
+      "nlms_mse": 0.7237,
+      "model_mse": 0.9366,
+      "mean_confidence": 1.0
+    }
+  },
+  "noise_environments": {
+    "Gaussian AWGN": {
+      "lms_snr_db": 2.56,
+      "nlms_snr_db": 0.54,
+      "model_snr_db": 11.93,
+      "lms_mse": 0.1921,
+      "nlms_mse": 1.9094,
+      "model_mse": 0.346,
+      "mean_confidence": 1.0
+    },
+    "Impulse Spikes": {
+      "lms_snr_db": 2.7,
+      "nlms_snr_db": 5.07,
+      "model_snr_db": 14.87,
+      "lms_mse": 0.1756,
+      "nlms_mse": 0.0234,
+      "model_mse": 0.6022,
+      "mean_confidence": 1.0
+    },
+    "50Hz Harmonic Hum": {
+      "lms_snr_db": 4.47,
+      "nlms_snr_db": 2.33,
+      "model_snr_db": 15.73,
+      "lms_mse": 0.1774,
+      "nlms_mse": 0.2865,
+      "model_mse": 0.0468,
+      "mean_confidence": 1.0
+    },
+    "Brown Noise Drift": {
+      "lms_snr_db": 5.69,
+      "nlms_snr_db": 16.14,
+      "model_snr_db": 13.81,
+      "lms_mse": 0.1749,
+      "nlms_mse": 0.0069,
+      "model_mse": 0.0159,
+      "mean_confidence": 1.0
+    }
+  },
+  "composite_nonlinear_suite": {
+    "Cubic Nonlinearity": {
+      "lms_snr_db": 3.98,
+      "nlms_snr_db": 2.82,
+      "model_snr_db": 16.66,
+      "lms_mse": 0.287,
+      "nlms_mse": 0.4662,
+      "model_mse": 0.6215,
+      "mean_confidence": 1.0
+    },
+    "AM-Modulated Nonlinear": {
+      "lms_snr_db": 3.39,
+      "nlms_snr_db": 1.39,
+      "model_snr_db": 6.69,
+      "lms_mse": 0.2147,
+      "nlms_mse": 0.6115,
+      "model_mse": 0.4501,
+      "mean_confidence": 1.0
+    },
+    "Chaotic-like Nonlinear": {
+      "lms_snr_db": 2.59,
+      "nlms_snr_db": 0.37,
+      "model_snr_db": 13.66,
+      "lms_mse": 0.2006,
+      "nlms_mse": 1.7444,
+      "model_mse": 0.7254,
+      "mean_confidence": 1.0
+    }
+  }
+}

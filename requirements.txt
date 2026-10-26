@@ -1,0 +1,13 @@
+# Core Numerical and Scientific Computing
+numpy>=1.24.0,<3.0.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+pyyaml>=6.0.0
+
+# Deep Learning Framework
+tensorflow>=2.15.0
+
+# Testing and Code Quality
+pytest>=7.3.0
